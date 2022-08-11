@@ -43,10 +43,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setValues(response:JSONObject){
-        city.text=response.getString("city.id")
+        city.text=response.getString("name")
         var lat = response.getJSONObject("coord").getString("lat")
         var long=response.getJSONObject("coord").getString("lon")
-//        coordinates.text="${lat} , ${long}"
+        coordinates.text="${lat} , ${long}"
         weather.text=response.getJSONArray("weather").getJSONObject(0).getString("main")
         var tempr=response.getJSONObject("main").getString("temp")
         tempr=((((tempr).toFloat()-273.15)).toInt()).toString()
@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
         humidity.text=response.getJSONObject("main").getString("humidity")+"%"
         wind.text=response.getJSONObject("wind").getString("speed")
         degree.text="Degree : "+response.getJSONObject("wind").getString("deg")+"°"
-    gust.text="Gust : "+response.getJSONObject("wind").getString("gust")
+          gust.text="Gust : "+response.getJSONObject("wind").getString("gust")
     }
 }
 
