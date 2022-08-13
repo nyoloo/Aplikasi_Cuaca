@@ -29,10 +29,7 @@ class SplashScreen : AppCompatActivity() {
         getLastLocation()
     }
 
-//    1. location permission --> deny
-//    2. location denied through settings
-//    3. gps off
-//    4. permission le lo
+
 
 
     @SuppressLint("MissingPermission")
