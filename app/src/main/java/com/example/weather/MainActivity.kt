@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
         humidity.text=response.getJSONObject("main").getString("humidity")+"%"
         wind.text=response.getJSONObject("wind").getString("speed")
         degree.text="Degree : "+response.getJSONObject("wind").getString("deg")+"°"
-          gust.text="Gust : "+response.getJSONObject("wind").getString("gust")
+
     }
 }
 
