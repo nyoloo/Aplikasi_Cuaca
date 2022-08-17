@@ -6,9 +6,27 @@
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/celcius.xml" value="0.194" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/gradient_bg.xml" value="0.194" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_pin.xml" value="0.194" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_pressure.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_rainshower.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_rainy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_rainythunder.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_snowy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_snowyrainy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_sunny.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_sunnycloudy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_sunnyrainy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_thunder.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_very_cloudy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_wind.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/ic_windy.xml" value="0.127" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/line_2.xml" value="0.198" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/line_3.xml" value="0.198" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/location.xml" value="0.127" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/drawable/putaran.xml" value="0.1935" />
-        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/layout/activity_splash_screen.xml" value="0.15534420289855072" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/layout/list_items_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/layout/toolbar.xml" value="0.17708333333333334" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.194" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Aplikasi Cuaca/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.194" />
         <entry key="..\:/Perkuliahan/Semesster 6/Aplikasi Komputasi Bergerak/tubesAKB/Weather_App-master/app/src/main/res/drawable/gradient_bg.xml" value="0.1" />
